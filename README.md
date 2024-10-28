@@ -1,6 +1,6 @@
 # Cinematic-Matchmaker
 ### Project Summary
-
+**DataSet**: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 **Project Name: Movie Recommender System**
 
 This project is a movie recommendation application that leverages the TMDB (The Movie Database) dataset to suggest movies based on user preferences. The system processes movie data, including genres, keywords, cast, and crew, to create a comprehensive tagging system for each film. It utilizes Natural Language Processing (NLP) techniques, particularly Count Vectorization, to compute the similarity between movies using cosine similarity. The application features a user-friendly interface built with Streamlit, where users can input their favorite movie and receive tailored recommendations, complete with movie posters fetched from the TMDB API. 
